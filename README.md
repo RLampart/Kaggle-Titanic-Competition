@@ -1,3 +1,3 @@
 # Kaggle-Titanic-Competition
 
-Accuracy of Submission: 0.80
+Accuracy of Submission: 0.80143
